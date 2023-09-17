@@ -28,7 +28,7 @@
   - 💡 Web Scrapping for Customer Review
   - 💡 Google Image Scrapping
 
-- 📈 **AVUA International Pvt. Ltd.**
+- 📈 **[AVUA International Pvt. Ltd.](https://www.avua.com/)**
   - Data Scientist
   - 📅 Jun 2023 – Jul 2023
   - 💡 Extracted 'Statistical Features from Video frames', involving face detection and landmark identification.
