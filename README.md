@@ -3,17 +3,17 @@
   [https://sayyad-abdul-bari.github.io/](https://sayyad-abdul-bari.github.io/)
 
 ## About Me
-- 🎓 I'm an M.Tech. scholar specializing in Data Science at [Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/).
+- 🎓 I completed M.Tech specializing in Data Science at [Mehta Family School of Data Science & AI, Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/mfsdsai/index.html).
 - 🌟 I'm passionate about data science, machine learning, and deep learning.
-- 💼 I've gained practical experience through internships in Data Science at Onwheeler, AVUA International Pvt. Ltd., and Exposys Data Labs.
-- 🌐 Connect with me on [LinkedIn]([LinkedIn Link](https://www.linkedin.com/in/sayyad-abdul-bari-26027b1a3/)).
+- 💼 I've gained practical experience through internships in Data Science at Wiley Edge, AVUA International Pvt. Ltd., and Alvick Scientific Co.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sayyad-abdul-bari-26027b1a3/).
 - 📝 I occasionally share my thoughts on data science and related topics on [Medium](https://medium.com/@sayyadabdulbari787).
-- 📧 You can reach me at sayyadabdulbari787@gmail.com .
+- 📧 You can reach me at sayyadabdulbari787@gmail.com.
 - 🏫 Currently based at IIT Roorkee, India.
 
 ## Education
 - 📚 M.Tech: Data Science at [IIT Roorkee](https://www.iitr.ac.in/)
-  - 📅 Jul 2022 – present
+  - 📅 Jul 2022 – May 2024
 - 🎓 B.Tech: Chemical Engg. at [MANIT Bhopal](https://www.manit.ac.in/)
   - 📅 Aug 2015 – May 2019
 - 🎒 Intermediate (Class XII) at Dr. S. Radhakrishnan Higher Secondary School
@@ -22,54 +22,66 @@
   - 📅 2011 – 2012
 
 ## Internships
-- 🔬 **[Onwheeler](https://www.onwheeler.com/)**
-  - Data Scientist
-  - 📅 Aug 2023 – present
-  - 💡 Web Scrapping for Customer Review
-  - 💡 Google Image Scrapping
+- 📈 **[Wiley Edge](https://www.wileyedge.com/)**
+  - Software Development Training
+  - 📅 Feb 2024 – Apr 2024 | Remote
+  - 💡 Learned various emerging technologies with practical applications including Java, Spring, Azure, and Cloud.
 
 - 📈 **[AVUA International Pvt. Ltd.](https://www.avua.com/)**
   - Data Scientist
-  - 📅 Jun 2023 – Jul 2023
+  - 📅 Jun 2023 – Jul 2023 | Mohali, India
   - 💡 Extracted 'Statistical Features from Video frames', involving face detection and landmark identification.
   - 💡 Developed an 'Anomaly Detection' focusing especially on the eye region.
   - 💡 Built a 'Neurofuzzy Neural Network for Semantic Similarity Analysis' using BERT embeddings.
 
-- 🌐 **Exposys Data Labs**
-  - Data Science
-  - 📅 Jan 2023 – Feb 2023
-  - 💻 Focused on Triple Data Encryption Standard (3DES) algorithm for image security.
-  - 📽️ [View project video](https://youtu.be/mgkA5ypmQbU?feature=shared)
+- 📈 **[Alvick Scientific Co](https://www.alvick.com/)**
+  - Data Analyst
+  - 📅 Nov 2020 – Apr 2022
+  - 💡 Managed the data lifecycle, conducted exploratory data analysis (EDA) and feature engineering.
+  - 💡 Collaborated with other teams to support the development and optimization of machine learning models for rain prediction.
 
 ## Skills
-- 💻 Computer Languages: Python(advanced), SQL, R
-- 📦 Software Packages: Flask, PyTorch, TensorFlow, Keras, NumPy, Pandas, Matplotlib/Seaborn, Scikit-learn
-- 📊 Other Skills: Object-oriented programming (proficient), Data visualization (proficient), Statistical analysis (proficient), Machine learning (proficient), Feature engineering (proficient), Exploratory data analysis (proficient), Regression analysis (proficient), Database management (proficient)
+- 💻 Programming Languages: Python, Java, SQL, HTML/CSS
+- 📦 AI Frameworks: TensorFlow, PyTorch, Cuda, LangChain
+- 📊 Data Analysis and Visualization Tools: PowerBI, Tableau, EDA
+- 📚 ML and Deep Learning Libraries: Scikit Learn, TensorFlow, Hugging Face
+- 🗄️ Data Processing & Database Tools: Hadoop, Spark, MongoDB, MySQL
+- 🖼️ CV and Image Processing Libraries: OpenCV, Mediapipe, Dlib
+- 🌐 Frameworks: Flask, Django
+- ☁️ Cloud Platforms: Azure
 
 ## Projects
-- 💍 **Diamond Price Prediction**
-  - Used different Machine Learning models to predict diamond prices, achieving a 97% accuracy rate with XGBoost.
+- 💍 **Enhancing Fake News Detection with Adaptive Rational Guidance Using LLM (GPT-4, GPT-3.5, Claude-3.5) Generated Features**
+  - 📅 Aug 2023 – May 2024
+  - Developed rationale features using LLMs based on news content, which enhanced the performance of Small Language Models.
 
-- ❤️ **Heart Disease Prediction Using Deep Learning Techniques**
-  - Built a Deep Learning sequential model to predict heart disease, with hyperparameter tuning using Grid search.
+- 📝 **Question Answering Model (Seminar), NLP**
+  - 📅 Mar 2023 – May 2023
+  - Utilized the Hugging Face library and SQuAD dataset to develop an NLP-based question-answering model.
 
-- 💼 **Bankruptcy Prediction**
-  - Developed a logistic regression model for predicting bankruptcy with an accuracy of 87%.
+- 💳 **Credit Card Fraud Detection, Machine Learning (Classification)**
+  - 📅 Jun 2023 – Jul 2023
+  - Engineered a sophisticated classification model to identify credit card fraud and successfully deployed the solution on AWS using Flask.
 
-- 🚦 **Traffic Sign Board Detection**
-  - Developed a real-time traffic sign board detection system using computer vision and machine learning techniques.
+- 💎 **Diamond Price Prediction, Machine Learning (Regression)**
+  - 📅 Mar 2023 – May 2023
+  - Used Random Forest Regression to predict diamond prices accurately.
 
-- 👋 **American Sign Language Detection with PyTorch**
-  - Implemented a Convolutional Neural Network (CNN) for American Sign Language detection using PyTorch.
+- 🚨 **Shredder Alert System, OpenCV**
+  - 📅 Jul 2023 – Sep 2023
+  - Created an innovative alarm system using OpenCV for detecting human presence in restricted areas.
 
-- 💧 **GROUNDWATER Prediction Using GRACE Satellite**
-  - Used data from the Gravity Recovery and Climate Experiment (GRACE) satellite to predict groundwater levels using machine learning techniques.
+## Languages
+- English
+- Hindi
+- Urdu
+- Arabic
 
-- 🔒 **Securing Images with Triple DES Encryption**
-  - Python code for encrypting and decrypting image files using the Triple DES algorithm.
+## Extra Curricular
+- 🏫 **Teaching Assistant for Time Series Analysis, IIT Roorkee**
+  - 📅 Aug 2023 – Nov 2023
+  - Conducted weekly Time Series Analysis tutorials, emphasizing statistical concepts and practical application of R programming.
 
-## Organizations
-- 👥 Member at Mission Education Foundation
-  - 📅 Jul 2017 – May 2019
-  - 📍 Bhopal, India
-
+- ♟️ **Division Level Chess Competition, Sagar Division (M.P.)**
+  - 📅 Aug 2011
+  - Qualified from District level competition to represent the school in the Division Level Chess Competition.
